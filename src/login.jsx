@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import './src/Login.css';
+import "./Login.css"; // ✅ correct
 function Login() {
   return (
     <>
