@@ -22,7 +22,7 @@ function Landing() {
 
         <h1 style={{ fontSize: '3rem', marginBottom: '20px' }}>
   <span style={{ fontFamily: 'cinzel, serif', color: '#c0c0c0' }}>
-    BLOSSOM
+    FLORIQUE
   </span><br />
   Welcome to Flower World 🌸
 </h1>
